@@ -1,4 +1,7 @@
 # libminetise
-multi-platform monetisation SDK intended for developers which is mining crypto-currencies.
 
-more infos coming soon ^^
+Multi-platform crypto-currencies mining SDK.
+
+Helping developers to use crypto-currencies as part of their monetisation strategy.
+
+more informations available at https://www.minetise.com
